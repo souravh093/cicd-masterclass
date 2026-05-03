@@ -1,0 +1,11 @@
+node_modules/
+dist/
+coverage/
+.git/
+.github/
+*.log
+.env
+.prettierrc
+eslint.config.mjs
+jest.config.ts
+README.md
